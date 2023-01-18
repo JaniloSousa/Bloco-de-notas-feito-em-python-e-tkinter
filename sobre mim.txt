@@ -1,0 +1,1 @@
+Olá, meu nome é Janilo Sousa e construi um bloco de notas usando o python e o tkinter!
